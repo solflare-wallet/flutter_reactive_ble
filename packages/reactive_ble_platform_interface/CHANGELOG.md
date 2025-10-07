@@ -1,3 +1,7 @@
+## 5.5.0
+
+* Update flutter version.
+
 ## 5.4.0
 
 * Support for MacOS #889
